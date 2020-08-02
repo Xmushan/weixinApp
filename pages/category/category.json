@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "SearchInput": "../../components/SearchInput/SearchInput"
+  },
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#eb4450",
+  "navigationBarTitleText": "电商项目"
+}

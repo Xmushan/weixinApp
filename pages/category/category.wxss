@@ -1,0 +1,47 @@
+page{
+  height: 100%;
+}
+.cates{
+  height: 100%;
+}
+.cates .cates_container{
+  display: flex;
+  height: 92%;
+}
+.left_menu{
+  flex: 2;
+}
+.right_content{
+  flex: 5;
+}
+.menu_item{
+  height: 80rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30rpx;
+}
+.goods_group{
+  margin-top: 30rpx;
+}
+.goods_title{
+  text-align: center;
+}
+.goods_list{
+  display: flex;
+  flex-wrap: wrap;
+}
+.goods_list navigator{
+  padding: 10rpx;
+  width: 33.3%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 30rpx;
+}
+.goods_list navigator image{
+  margin-bottom: 10rpx;
+}
+.active{
+  color: red;
+}
